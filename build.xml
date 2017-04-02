@@ -35,8 +35,7 @@
             else="${env.ANT_HOME}/bin/ant">
                     <os family="windows" />
         </condition>
-        <taskdef name="testng" classpath="${test.classpath}"
-               classname="org.testng.TestNGAntTask" />
+        
     
     </target>
   
