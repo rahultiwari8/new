@@ -2,7 +2,7 @@
 <!DOCTYPE project [
 ]>
 
-<project name="Learning TestNG" default="usage" basedir=".">  
+<project name="Learning TestNG" default="run" basedir=".">  
 
 <!-- ========== Initialize Properties =================================== -->
     <property environment="env"/>
